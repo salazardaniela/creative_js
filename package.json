@@ -1,0 +1,9 @@
+{
+  "scripts": {},
+  "devDependencies": {
+    "canvas-sketch": "^0.7.7"
+  },
+  "dependencies": {
+    "18": "^0.0.0"
+  }
+}
